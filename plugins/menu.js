@@ -549,7 +549,7 @@ const listMessage = {
 }
 handler.help = ['menu', 'help', '?']
 handler.tags = ['main']
-handler.command = /^(m|help|\?)$/i
+handler.command = /^(menu|help|\?)$/i
 
 handler.register = false
 handler.exp = 3
