@@ -78,33 +78,32 @@ global.APIs = { // API Prefix
   lol: 'https://api.lolhuman.xyz',
   dhnjing: 'https://dhnjing.xyz',
   neoxr: 'https://neoxr-api.herokuapp.com',
-  zeks: 'https://api.zeks.me',
+  zeks: 'https://api.zeks.xyz',
   pencarikode: 'https://pencarikode.xyz',
   ana: 'https://anabotofc.herokuapp.com/',
   amel: 'https://melcanz.com',
+  bsbt: 'https://bsbt-api-rest.herokuapp.com', 
   hardianto: 'https://hardianto.xyz',
   botstyle: 'https://botstyle-api.herokuapp.com',
   adiisus: 'https://adiixyzapi.herokuapp.com',
-  kanx: 'https://kannxapi.herokuapp.com/', 
-  violetics : 'https://violetics.pw',
-  ziy : 'https://ziy.herokuapp.com',
-  males : 'https://malesin.xyz'
+  LeysCoder: 'https://leyscoders-api.herokuapp.com',
+  kanx: 'https://kannxapi.herokuapp.com/'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'ebb6251cc00f9c63',
+  'https://api.xteam.xyz': 'NezukoTachibana281207',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': 'e54205a4ca2caa368cc067bb',// 8e66d0934cf741bfd2182c16
+  'https://api.lolhuman.xyz': 'Papah-Chan',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.me': 'apivinz',
+  'https://api.zeks.xyz': 'apivinz',
   'https://pencarikode.xyz': 'pais',
-  'https://melcanz.com': 'melcantik',
+  'https://melcanz.com': 'gedFijw7',
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://botstyle-api.herokuapp.com': 'Apikeymu',
+  'https://botstyle-api.herokuapp.com': 'Fa2GhFnr',
+  'https://bsbt-api-rest.herokuapp.com': 'benniismael',
   'https://hardianto.xyz': 'hardianto',
-  'https://violetics.pw': 'beta',
-  'https://ziy.herokuapp.com' : 'xZiyy'
+  'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
